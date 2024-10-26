@@ -1,7 +1,3 @@
-Here’s an enhanced version of your README with improved structure, formatting, and added icons to give it a polished, professional look:
-
----
-
 # 📈 Stock-Trend-Predictor-using-ML
 
 **🌟 Stock Price Predictor: Advanced LSTM Model with RNN**
